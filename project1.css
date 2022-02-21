@@ -1,0 +1,125 @@
+*{
+	padding:0px;
+	margin:0px;
+	
+}
+
+.body{
+
+}
+.menu-bar{
+	background:#009900;
+	text-align:center;
+	color:white;
+	font-family:sanserif;
+	font-size:40px;
+	padding:10px;
+	margin :10px;
+	width: 100%;
+	height: auto;
+	border-radius: 25px;
+	text-shadow: 2px 2px 4px #000000;
+	
+}
+
+.image{
+	width: 100%;
+	height: auto;
+	text-align: center;
+
+}
+
+.pa{
+   margin-top:15px;
+   font-size:25px;
+   width: 100%;
+   height: auto;
+   text-align: justify
+}
+
+.para{
+	margin-top:15px;
+	font-size:25px;
+	width: 100%;
+	height: auto;
+	text-align: justify;
+}
+.p{
+	margin:15px;
+}
+
+.topic{
+	margin-top:15px;
+	font-size:25px;
+	color:white;
+	background: #128747;
+	width: 100%;
+	height: auto;
+	padding:10px;
+	text-align: center;
+	border-radius: 25px;
+	text-shadow: 2px 2px 4px #000000;
+
+}
+body{
+	padding-left:100px;
+	padding-right:100px;
+	font-size:25px;
+	text-align: justify;
+}
+.subtopic{
+	background:#70d154;
+	color:white;
+	width:700px;
+	margin-bottom:10px;
+	margin-top:40px;
+	padding:10px;
+	border-radius: 25px;
+	text-shadow: 2px 2px 4px #000000;
+}
+
+
+.refe{
+	width: 100%;
+	color:white;
+	height: auto;
+	padding-top:30px;
+	padding-bottom:20px;
+	color:#009900;
+}
+
+.reference{
+
+	width: 100%;
+	height :auto;
+	padding-top:30px;
+	padding: 10px;
+	color:#2980B9;
+
+
+}
+
+.topicRef{
+	margin-top:50px;
+	padding:10px;
+	font-size:25px;
+	colour: white;
+	background:#009900;
+	border-radius: 25px;
+	text-align:center;
+	text-shadow: 2px 2px 4px #000000;
+
+}
+
+.colorimageref2{
+	padding-top:5px;
+	padding-bottom:20px;
+	color:#2980B9;
+	font-size;5px;
+
+
+}
+	
+ 
+
+
