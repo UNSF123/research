@@ -30,6 +30,16 @@
 
 }
 
+.img6{
+   border-radius: 8px;
+   float: right;
+   margin-top:30px;
+   font-size:25px;
+   width: 100%;
+   height: auto;
+   text-align: justify
+
+}
 .pa{
    margin-top:30px;
    font-size:25px;
@@ -53,7 +63,7 @@
 	margin-top:30px;
 	font-size:25px;
 	color:white;
-	background: #00a82b;
+	background: #59bd00;
 	width: 100%;
 	height: auto;
 	padding:20px;
@@ -102,7 +112,7 @@ body{
 }
 
 .topicRef{
-	margin-top:50px;
+	margin-top:130px;
 	padding:10px;
 	font-size:30px;
 	text-align:left;
@@ -119,4 +129,11 @@ body{
 
 }
 
-
+.blank{
+   padding: 20px;
+   margin-top:30px;
+   font-size:25px;
+   width: 100%;
+   height: auto;
+   text-align: justify
+}
